@@ -1,0 +1,9 @@
+function NegatifPositif(Nombre) {
+    let gauche= 0;
+    let droite= Nombre.length - 1;
+
+    while (gauche <= droite) {
+
+    }
+}
+Nombre = [3, -1, 0, 4, -2, 5, -3];
