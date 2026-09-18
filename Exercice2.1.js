@@ -1,3 +1,4 @@
+let Tableau = [0, 1, 0];
 
 function Echanger(Tableau, i, j) {
 
@@ -5,6 +6,6 @@ function Echanger(Tableau, i, j) {
     Tableau[i] = Tableau[j];
     Tableau[j] = finalTableau;
 
-    console.log(finalTableau);
+    console.log(Echanger(finalTableau));
 }
 
